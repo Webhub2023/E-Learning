@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+     "deploy": "git push heroku main"
   },
   "dependencies": {
     "framer-motion": "^11.13.1",
